@@ -30,7 +30,7 @@ const About = () => {
           bunch of other cool stuff).
         </p>
         <p>
-          Currently I am learning distributed systems and more "backend-centric" languages C# and Java
+          Currently I am learning distributed systems and more &quot;backend-centric&quot; languages C# and Java
         </p>
         <p>
           I enjoy solving problems that is &quot;unknown&quot; stuff like doing
