@@ -18,8 +18,8 @@ const About = () => {
       <main className={`${styles.main} ${ovo.variable}`}>
         <p>Hey, if you want to know a bit more about me there you go:</p>
         <p>
-          I was born in 2003 and raised in Franca, São Paulo 🇧🇷. I have always
-          been interest and loved to mess around with technology.
+          I was born in 2003 and raised in Franca, São Paulo 🇧🇷. I've always
+          been interested and loved to mess around with technology.
         </p>
         <p>
           I really got into tech in mid 2018 and after some time teaching myself
