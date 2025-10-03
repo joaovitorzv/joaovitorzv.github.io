@@ -18,7 +18,7 @@ const About = () => {
       <main className={`${styles.main} ${ovo.variable}`}>
         <p>Hey, if you want to know a bit more about me there you go:</p>
         <p>
-          I was born in 2003 and raised in Franca, São Paulo 🇧🇷. I've always
+          I was born in 2003 and raised in Franca, São Paulo 🇧🇷. I&apos;ve always
           been interested and loved to mess around with technology.
         </p>
         <p>
@@ -28,6 +28,9 @@ const About = () => {
           i&apos;ve been working daily with TypeScript, GraphQL, Remix.run,
           React Native, and AWS services (DynamoDB, Lambda, S3, Cognito and a
           bunch of other cool stuff).
+        </p>
+        <p>
+          Currently I am learning distributed systems and more "backend-centric" languages C# and Java
         </p>
         <p>
           I enjoy solving problems that is &quot;unknown&quot; stuff like doing
